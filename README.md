@@ -20,11 +20,16 @@ Project is created with:
 
 
 ## Visual Representation
-![Screenshot_1671946935](https://user-images.githubusercontent.com/93868173/209455897-24650f53-8fbb-45c5-a81c-010ed50009fb.png)
-![Screenshot_1671947257](https://user-images.githubusercontent.com/93868173/209455898-7b818460-84f7-486d-ac0a-d21033b4ba48.png)
-![Screenshot_1671947052](https://user-images.githubusercontent.com/93868173/209455899-816b34e1-28b9-4db4-b3a5-683bf2dd06af.png)
-![Screenshot_1671947185](https://user-images.githubusercontent.com/93868173/209455902-93d5ba1e-40ed-4bc7-b2bc-770e313bdd3a.png)
-![Screenshot_1671947192](https://user-images.githubusercontent.com/93868173/209455903-007c6872-4b46-4fbb-954f-e6f4bfb2ba0f.png)
+
+
+<img src="https://user-images.githubusercontent.com/93868173/209455897-24650f53-8fbb-45c5-a81c-010ed50009fb.png" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001758-ac86be01-75b6-4606-b620-963113c6f9a4.jpg" width="400" height="800"/>
+
+<img src="https://user-images.githubusercontent.com/93868173/209455898-7b818460-84f7-486d-ac0a-d21033b4ba48.png" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001758-ac86be01-75b6-4606-b620-963113c6f9a4.jpg" width="400" height="800"/>
+
+
+<img src="https://user-images.githubusercontent.com/93868173/209455899-816b34e1-28b9-4db4-b3a5-683bf2dd06af.png" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001758-ac86be01-75b6-4606-b620-963113c6f9a4.jpg" width="400" height="800"/>
+
+<img src="https://user-images.githubusercontent.com/93868173/209455902-93d5ba1e-40ed-4bc7-b2bc-770e313bdd3a.png" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001758-ac86be01-75b6-4606-b620-963113c6f9a4.jpg" width="400" height="800"/>
 
 <img src="https://user-images.githubusercontent.com/93868173/209455903-007c6872-4b46-4fbb-954f-e6f4bfb2ba0f.png" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001758-ac86be01-75b6-4606-b620-963113c6f9a4.jpg" width="400" height="800"/>
 
